@@ -1,0 +1,8 @@
+SALES ANALYTICS REPORT
+========================================
+
+Total Transactions: 12
+Total Revenue: ₹883278.00
+
+Revenue by Region:
+- South: ₹883278.00
